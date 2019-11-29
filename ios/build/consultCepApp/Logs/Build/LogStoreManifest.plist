@@ -40,7 +40,7 @@
 			<key>uniqueIdentifier</key>
 			<string>02D9D7C4-CE80-40EE-B86D-83EAFE439CC8</string>
 		</dict>
-		<key>92574E05-05A2-47E0-AA03-1C4699AD070A</key>
+		<key>875B7AFA-1AA9-4F6E-9C23-87494897AA37</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>92574E05-05A2-47E0-AA03-1C4699AD070A.xcactivitylog</string>
+			<string>875B7AFA-1AA9-4F6E-9C23-87494897AA37.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +66,13 @@
 			<key>signature</key>
 			<string>Building workspace consultCepApp with scheme consultCepApp and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>596731274.24676895</real>
+			<real>596732602.61544204</real>
 			<key>timeStoppedRecording</key>
-			<real>596731275.02432895</real>
+			<real>596732603.46271801</real>
 			<key>title</key>
 			<string>Building workspace consultCepApp with scheme consultCepApp and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>92574E05-05A2-47E0-AA03-1C4699AD070A</string>
+			<string>875B7AFA-1AA9-4F6E-9C23-87494897AA37</string>
 		</dict>
 	</dict>
 </dict>

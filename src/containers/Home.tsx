@@ -12,23 +12,17 @@ export function Home() {
             <Image style={styles.logo} source={require("../assets/icon/logo.png")} />
             <View style={styles.boxConsult}>
                 <TextInput
-                    style={[styles.input, !isValidCep(cep) ? styles.borderValid : styles.errorBorder]}
+                    style={[styles.input, cep.length < 9 ? styles.borderValid : styles.errorBorder]}
                     value={cep}
                     onChangeText={(e) => setCep(e)}
                     placeholder="Informe o CEP"
                     maxLength={8}
                     keyboardType="numeric"
                 />
-                { 
-                    isValidCep(cep) &&
-                    <Text style={styles.error}>
-                        CEP inválido
-                    </Text> 
-                } 
                 <TouchableOpacity
                     style={styles.button}
                     onPress={() => navigation.navigate('Details', { cep })}
-                    disabled={cep.length < 8 || isValidCep(cep)}>
+                    disabled={cep.length < 8}>
                     <Text style={styles.textButton}>Consultar</Text>
                 </TouchableOpacity>
             </View>

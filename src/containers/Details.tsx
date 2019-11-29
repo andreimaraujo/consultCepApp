@@ -33,7 +33,7 @@ export function Details() {
             <View>
                 <Text style={styles.title}>Exibindo resultados do CEP: {cep}</Text>
                 {
-                    error ?
+                    !error ?
                         <FlatList
                             data={FIELDS}
                             renderItem={({ item }) =>
