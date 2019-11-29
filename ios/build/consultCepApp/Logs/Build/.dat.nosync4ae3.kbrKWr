@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0BE1674C-975F-420F-80DE-B31AE60D4B2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0BE1674C-975F-420F-80DE-B31AE60D4B2A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>consultCepApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>consultCepApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace consultCepApp with scheme consultCepApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596692193.77010596</real>
+			<key>timeStoppedRecording</key>
+			<real>596692194.49999499</real>
+			<key>title</key>
+			<string>Building workspace consultCepApp with scheme consultCepApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>0BE1674C-975F-420F-80DE-B31AE60D4B2A</string>
+		</dict>
+		<key>67F19C1F-BBF1-4C60-92F8-D5E74D2DEEA7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67F19C1F-BBF1-4C60-92F8-D5E74D2DEEA7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>consultCepApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>consultCepApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace consultCepApp with scheme consultCepApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596692072.57128704</real>
+			<key>timeStoppedRecording</key>
+			<real>596692073.34768999</real>
+			<key>title</key>
+			<string>Building workspace consultCepApp with scheme consultCepApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>67F19C1F-BBF1-4C60-92F8-D5E74D2DEEA7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
