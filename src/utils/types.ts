@@ -1,3 +1,5 @@
+import {NavigationScreenProp, NavigationState} from 'react-navigation';
+
 export type Local = {
     cep?: string,
     logradouro?: string,

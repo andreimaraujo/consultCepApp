@@ -9,6 +9,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "@brazilian-utils/validators": "^0.1.9",
+    "brazilian-values": "^0.7.0",
     "react": "16.9.0",
     "react-native": "0.61.4",
     "react-native-gesture-handler": "^1.5.2",

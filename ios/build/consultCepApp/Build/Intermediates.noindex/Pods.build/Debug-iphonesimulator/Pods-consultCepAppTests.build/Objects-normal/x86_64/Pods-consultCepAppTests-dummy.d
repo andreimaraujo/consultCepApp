@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/andrei/Documents/projects/faculdade/consultCepApp/ios/Pods/Target\ Support\ Files/Pods-consultCepAppTests/Pods-consultCepAppTests-dummy.m
+  /Users/andrei/Documents/projects/consultCepApp/ios/Pods/Target\ Support\ Files/Pods-consultCepAppTests/Pods-consultCepAppTests-dummy.m

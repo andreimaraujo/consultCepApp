@@ -5,7 +5,14 @@ import { Details } from '../containers/Details';
 
 const navigation = createStackNavigator({
     Home: {
-        screen: Home
+        screen: Home,
+        navigationOptions: {
+            title: "FinderCEP",
+            headerTitleStyle: {
+                color: "#3498db",
+                fontSize: 20
+            }
+        }
     },
     Details: {
         screen: Details

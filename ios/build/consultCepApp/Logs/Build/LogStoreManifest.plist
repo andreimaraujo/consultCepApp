@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>786CCD6D-8829-40D5-91AE-5263F2731F01</key>
+		<key>02D9D7C4-CE80-40EE-B86D-83EAFE439CC8</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>786CCD6D-8829-40D5-91AE-5263F2731F01.xcactivitylog</string>
+			<string>02D9D7C4-CE80-40EE-B86D-83EAFE439CC8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Building workspace consultCepApp with scheme consultCepApp and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>596695919.47209799</real>
+			<real>596732255.60644603</real>
 			<key>timeStoppedRecording</key>
-			<real>596695920.22335994</real>
+			<real>596732256.37307596</real>
 			<key>title</key>
 			<string>Building workspace consultCepApp with scheme consultCepApp and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>786CCD6D-8829-40D5-91AE-5263F2731F01</string>
+			<string>02D9D7C4-CE80-40EE-B86D-83EAFE439CC8</string>
 		</dict>
-		<key>DA3E3381-289B-4687-ACD9-4794BEFAC2CF</key>
+		<key>92574E05-05A2-47E0-AA03-1C4699AD070A</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>DA3E3381-289B-4687-ACD9-4794BEFAC2CF.xcactivitylog</string>
+			<string>92574E05-05A2-47E0-AA03-1C4699AD070A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +66,13 @@
 			<key>signature</key>
 			<string>Building workspace consultCepApp with scheme consultCepApp and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>596695714.53936994</real>
+			<real>596731274.24676895</real>
 			<key>timeStoppedRecording</key>
-			<real>596695715.37003505</real>
+			<real>596731275.02432895</real>
 			<key>title</key>
 			<string>Building workspace consultCepApp with scheme consultCepApp and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>DA3E3381-289B-4687-ACD9-4794BEFAC2CF</string>
+			<string>92574E05-05A2-47E0-AA03-1C4699AD070A</string>
 		</dict>
 	</dict>
 </dict>
